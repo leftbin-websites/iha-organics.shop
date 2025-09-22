@@ -211,8 +211,8 @@ export default function Layout({ children, currentPageName }) {
                 <div className="flex items-start space-x-3">
                   <MapPin className="w-4 h-4 text-amber-400 mt-1 flex-shrink-0" />
                   <div className="text-sm text-gray-300">
-                    <p>Villa No. 44, PPO, Bowrampet</p>
-                    <p>Hyderabad-500043, India</p>
+                    <p>HIG-132, PHASE-VI, KPHB COLONY, Kukatpally,</p>
+                    <p>Hyderabad, Medchal Malkajgiri, Telangana, 500072</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
@@ -221,7 +221,7 @@ export default function Layout({ children, currentPageName }) {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-4 h-4 text-amber-400" />
-                  <span className="text-sm text-gray-300">info@ihaorganics.com</span>
+                  <span className="text-sm text-gray-300">info@ihaorganics.shop</span>
                 </div>
               </div>
             </div>
