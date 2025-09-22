@@ -221,7 +221,7 @@ export default function Layout({ children, currentPageName }) {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-4 h-4 text-amber-400" />
-                  <span className="text-sm text-gray-300">info@ihaorganics.shop</span>
+                  <span className="text-sm text-gray-300">info@iha-organics.shop</span>
                 </div>
               </div>
             </div>
